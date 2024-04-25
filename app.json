@@ -1,0 +1,18 @@
+{
+    "name": "herwen?",
+    "description": "بوت سمسمي",
+    "stack": "container",
+    "logo": "https://telegra.ph/file/5116db79f852db113875c.jpg",
+    "keywords": [
+        "python",
+        "chatbot",
+        "telegrambot"
+    ],
+    "env": {
+        "ELHYBA": {
+            "description": "7154380758:AAGOoaq1VeBQUS9VvVhpgCWT00dBxd9RO8k",
+            "value": "",
+            "required": true
+    }
+  }
+} 
